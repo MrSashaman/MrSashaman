@@ -1,6 +1,6 @@
 # Hey there! I'm mrSashaman, a pixel-pushing game dev 👾
 
-My passion is crafting unique game experiences, one pixel at a time. I specialize in C# and Unity, but I also love working with pixel art and creating immersive worlds.
+My passion is crafting engaging game experiences with unique gameplay and stunning visuals. I specialize in C# and Unity, exploring various techniques to bring worlds to life.
 
 ## Skills 🛠️
 
