@@ -24,5 +24,6 @@ My passion is crafting engaging game experiences with unique gameplay and stunni
 
 - 🐦 [Twitter](https://x.com/MrSashaman) - Follow me for game dev updates and pixel art!
 - 💻 [Site](https://steelfoxgames.fun/) - Check out my latest games and projects!
+- 👑 [Discord](https://discord.gg/5pBt7cj8B9) - Be sure to stop by!
 
 Feel free to explore my repositories and let me know what you think! I'm always open for collaboration 👾. Thanks for stopping by! ✨
