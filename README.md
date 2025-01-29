@@ -4,13 +4,15 @@ My passion is crafting engaging game experiences with unique gameplay and stunni
 
 ## Skills 🛠️
 
-- **Languages:**
-    - ⚙️ C# (Experienced)
-    - 🐍 Python (Familiar)
-- **Engines & Tools:**
-    - ✨ Unity (My go-to for game creation)
-- **Design:**
-    - 🎨 Game Design (Passionate)
+- Languages:
+  - ⚙️ C# (Experienced)
+  - 🐍 Python (Familiar)
+- Engines & Tools:
+  - ✨ Unity (My go-to for game creation)
+- Game Dev Focus:
+  - 🎮 Game Design (Passionate)
+  - 🎨 Graphics & Visual Design (Interested)
+  - ⚙️ Game Mechanics (My area of expertise)
    
 
 ## Projects 🕹️
