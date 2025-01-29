@@ -17,7 +17,7 @@ I'm an indie game developer with a passion for pixel art and game design. I spec
 
 ## Socials
 
-- [Twitter]([link-to-twitter](https://x.com/MrSashaman))
+- [Twitter]([link-to-twitter](https://x.com/MrSashaman)
 - [Site][(link-to-linkedin](https://steelfoxgames.fun/))
 
 Feel free to check out my repositories and don't hesitate to reach out if you have any questions!
