@@ -11,7 +11,7 @@ My passion is crafting unique game experiences, one pixel at a time. I specializ
     - ✨ Unity (My go-to for game creation)
 - **Design:**
     - 🎨 Game Design (Passionate)
-    - 🖌️ Pixel Art (My favorite form of art!)
+   
 
 ## Projects 🕹️
 
