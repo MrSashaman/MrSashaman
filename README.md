@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm [Ваше имя] 👋
 
-<!--
-**MrSashaman/MrSashaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an indie game developer with a passion for pixel art and game design. I specialize in C# and Unity, but I also love working with pixel art.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Unity
+- Game Design
+- Pixel Art
+- Version Control (Git)
+
+## Projects
+
+- [Project Name 1](link-to-repo-1) - Description of the project.
+- [Project Name 2](link-to-repo-2) - Description of the project.
+
+## Socials
+
+- [Twitter](link-to-twitter)
+- [LinkedIn](link-to-linkedin)
+
+Feel free to check out my repositories and don't hesitate to reach out if you have any questions!
