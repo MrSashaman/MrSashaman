@@ -17,8 +17,8 @@ My passion is crafting engaging game experiences with unique gameplay and stunni
 
 ## Projects 🕹️
 
-- [Project Name 1](link-to-repo-1) - Dive into a pixelated adventure with this project! 💡 It's a unique blend of X and Y.
-- [Project Name 2](link-to-repo-2) - A passion project where I explored Z. I'm really proud of how it turned out. ✨
+- [Project Name 1](link-to-repo-1) - Soon!
+- [Project Name 2](link-to-repo-2) - Soon!
 
 ## Socials 🌐
 
