@@ -1,4 +1,4 @@
-# Hi, I'm [Ваше имя] 👋
+# Hi, I'm mrSashaman 👋
 
 I'm an indie game developer with a passion for pixel art and game design. I specialize in C# and Unity, but I also love working with pixel art.
 
@@ -7,8 +7,8 @@ I'm an indie game developer with a passion for pixel art and game design. I spec
 - C#
 - Unity
 - Game Design
-- Pixel Art
-- Version Control (Git)
+- Python
+
 
 ## Projects
 
@@ -17,7 +17,7 @@ I'm an indie game developer with a passion for pixel art and game design. I spec
 
 ## Socials
 
-- [Twitter](link-to-twitter)
-- [LinkedIn](link-to-linkedin)
+- [Twitter]([link-to-twitter](https://x.com/MrSashaman))
+- [Site][(link-to-linkedin](https://steelfoxgames.fun/))
 
 Feel free to check out my repositories and don't hesitate to reach out if you have any questions!
