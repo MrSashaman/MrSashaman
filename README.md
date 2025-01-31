@@ -17,7 +17,7 @@ My passion is crafting engaging game experiences with unique gameplay and stunni
 
 ## Projects 🕹️
 
-- [SmartKit](link-to-repo-1) - Soon!
+- [SmartKit](https://github.com/MrSashaman/SmartKit) - Simple Python Code!
 - [Project Name 2](link-to-repo-2) - Soon!
 
 ## Socials 🌐
