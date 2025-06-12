@@ -5,7 +5,7 @@ My passion is crafting engaging game experiences with unique gameplay and stunni
 ## Skills 🛠️
 
 - Languages:
-  - ⚙️ C# (Experienced)
+  - ⚙️ C# (Medium)
   - 🐍 Python (Familiar)
 - Engines & Tools:
   - ✨ Unity (My go-to for game creation)
