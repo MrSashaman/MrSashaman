@@ -17,7 +17,7 @@ My passion is crafting engaging game experiences with unique gameplay and stunni
 
 ## Projects 🕹️
 
-- [SmartKit](https://github.com/MrSashaman/SmartKit) - Simple Python Code!
+- [AI-IMG-TELEGRAM](https://github.com/MrSashaman/AI-IMG-TELEGRAM) - AI-IMG-TELEGRAM BOT!
 - [Uncle Sam](https://github.com/MrSashaman/Uncle-Sam) - Uncle Sam discord bot!
 
 ## Socials 🌐
