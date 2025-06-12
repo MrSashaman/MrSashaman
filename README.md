@@ -18,7 +18,7 @@ My passion is crafting engaging game experiences with unique gameplay and stunni
 ## Projects 🕹️
 
 - [SmartKit](https://github.com/MrSashaman/SmartKit) - Simple Python Code!
-- [Project Name 2](https://github.com/MrSashaman/Uncle-Sam) - Soon!
+- [Uncle Sam](https://github.com/MrSashaman/Uncle-Sam) - Uncle Sam discord bot!
 
 ## Socials 🌐
 
