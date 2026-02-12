@@ -46,6 +46,34 @@
 
 ---
 
+## 🎮 My Published Games
+
+<div align="center">
+
+  <a href="https://steelfoxgames.itch.io/ufm" target="_blank">
+    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/ljBvDm.png?raw=true" 
+         alt="UFM" 
+         width="280"/>
+  </a>
+
+  <br><br>
+
+  <a href="https://steelfoxgames.itch.io/shadow-leap" target="_blank">
+    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/muV7Lw.png?raw=true" 
+         alt="Shadow Leap" 
+         width="280"/>
+  </a>
+
+  <br><br>
+
+  <a href="https://steelfoxgames.itch.io/rustbound" target="_blank">
+    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/2NOYqX.png?raw=true" 
+         alt="Rustbound" 
+         width="280"/>
+  </a>
+
+</div>
+---
 ## 🌍 Find Me Here
 
 <a href="https://www.youtube.com/@SteelFoxGames_offical">
