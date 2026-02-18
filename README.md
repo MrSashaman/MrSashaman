@@ -5,10 +5,12 @@
 
 ## 🎮 About Me
 
-- 🕹 I create indie games and weird interactive stuff  
-- 🎨 I love mixing code + visuals + sound into playable worlds  
-- 🧠 Always learning something new  
-- ☕ Powered by curiosity and late-night ideas  
+🕹 I make indie games and weird interactive things.
+🎨 I mix code, visuals, and sound into stuff you can actually play.
+🧠 I’m always picking up something new.
+☕ Mostly fueled by curiosity and too many late nights.
+
+
 
 ---
 
