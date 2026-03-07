@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://alexsandrpimonov.pythonanywhere.com/">
+<a href="https://mrsashaman.github.io//">
   <img src="https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
