@@ -1,17 +1,16 @@
 <h1 align="center">👋 Hi, I'm mrSashaman</h1>
-<h3 align="center">Indie Game Developer • Unity enjoyer • Pixel pusher</h3>
+<h3 align="center">Dev • Unity • Python • JavaScript</h3>
 
 ---
 
-## 🎮 About Me
+## :basecamp: About Me
 
-Hello :>
-
+:shipit: Dev, gamer and cool dude.
 
 
 ---
 
-## 🚀 Tech & Tools
+## :accessibility: Tech & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" />
