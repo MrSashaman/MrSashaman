@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm mrSashaman</h1>
 <h3 align="center">Dev • Unity • Python • JavaScript</h3>
-
+<img src="pacman.svg" width="300" alt="pacman"
 ---
 
 ## :basecamp: About Me
