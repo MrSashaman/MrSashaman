@@ -50,36 +50,36 @@
 
 ## 🎮 My Published Games
 
-<div align="center">
-
-  <a href="https://steelfoxgames.itch.io/ufm" target="_blank">
-    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/ljBvDm.png?raw=true" 
-         alt="UFM" 
-         width="280"/>
+<p align="center">
+  <a href="https://steelfoxgames.itch.io/ufm">
+    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/ljBvDm.png?raw=true"
+         alt="UFM"
+         width="260"
+         height="150"
+         style="object-fit: cover; border-radius: 10px;" />
   </a>
 
-  <br><br>
-
-  <a href="https://steelfoxgames.itch.io/shadow-leap" target="_blank">
-    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/muV7Lw.png?raw=true" 
-         alt="Shadow Leap" 
-         width="280"/>
+  <a href="https://steelfoxgames.itch.io/shadow-leap">
+    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/muV7Lw.png?raw=true"
+         alt="Shadow Leap"
+         width="260"
+         height="150"
+         style="object-fit: cover; border-radius: 10px;" />
   </a>
 
-  <br><br>
-
-  <a href="https://steelfoxgames.itch.io/rustbound" target="_blank">
-    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/2NOYqX.png?raw=true" 
-         alt="Rustbound" 
-         width="280"/>
+  <a href="https://steelfoxgames.itch.io/rustbound">
+    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/2NOYqX.png?raw=true"
+         alt="Rustbound"
+         width="260"
+         height="150"
+         style="object-fit: cover; border-radius: 10px;" />
   </a>
-
-</div>
+</p>
 
 ---
 
 
-## 🌍 Find Me Here
+## :dependabot: Find Me Here
 
 <a href="https://www.youtube.com/@SteelFoxGames_offical">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -95,4 +95,4 @@
 
 ---
 
-✨ Currently building cool things and trying not to break production.
+:octocat: Writing code.
