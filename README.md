@@ -3,8 +3,8 @@
 <img src="pacman.svg" width="1000" alt="pacman"
 ---
 
-## About Me
-
+---
+## :basecamp: About Me
 :shipit: Dev, gamer and cool dude.
 
 
