@@ -1,5 +1,5 @@
 <h1 align="center">👋 𝑯𝒊, 𝑰'𝒎 𝒎𝒓𝑺𝒂𝒔𝒉𝒂𝒎𝒂𝒏</h1>
-<h3 align="center">Dev • Unity • C# • Python • JavaScript • Exiled</h3>
+<h3 align="center">Dev • Unity • C# • Python • JavaScript</h3>
 
 <p align="center">
   <img src="pacman.svg" width="1000" alt="pacman"/>
