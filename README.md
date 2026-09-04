@@ -53,9 +53,9 @@
 ## 🎮 My Published Games
 
 <p align="center">
-  <a href="https://steelfoxgames.itch.io/ufm">
-    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/ljBvDm.png?raw=true"
-         alt="UFM"
+  <a href="https://steelfoxgames.itch.io/peaceful-village">
+    <img src="https://github.com/MrSashaman/MrSashaman/blob/main/INmu_H.png"
+         alt="PV"
          width="260"
          height="150"
          style="object-fit: cover; border-radius: 10px;" />
